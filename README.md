@@ -85,9 +85,7 @@ The proposed business model aims to create a sustainable and self-reliant econom
 
 ---
 
-## Contact Information
-For more details, reach out to the project maintainer:
 
-- **Name**: Tilak Sanghvi
-- **Email**: [tilakcsanghvi@gmail.com](mailto:tilakcsanghvi@gmail.com)
+
+
 
